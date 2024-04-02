@@ -8,6 +8,7 @@
 
   <modules>
     <module>yorha-processor</module>
+    <module>yorha-swift</module>
   </modules>
 
   <parent>
