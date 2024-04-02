@@ -1,5 +1,13 @@
 # Compiled class file
 *.class
+# Idea
+.idea
+# java
+target/
+# Compiled class file
+*.class
+*.iml
+>>>>>>> 3cf1f60 (First commit)
 
 # Log file
 *.log
