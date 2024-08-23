@@ -9,7 +9,8 @@
 
   <modules>
     <module>yorha-adhoc</module>
-    <module>yorha-component</module>
+    <module>yorha-processor</module>
+    <module>yorha-swift</module>
   </modules>
 
   <parent>
